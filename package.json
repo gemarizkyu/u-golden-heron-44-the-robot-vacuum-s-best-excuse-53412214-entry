@@ -1,0 +1,1 @@
+{"description":"A one-line excuse from a robot vacuum for missing a spot — make.fun entry","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214-entry","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
